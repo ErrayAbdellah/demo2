@@ -17,4 +17,8 @@ public class Home {
     public String hello(){
         return "hello erray";
     }
+    @GetMapping("/hello2")
+    public String hello2(){
+        return "hello2 erray";
+    }
 }
