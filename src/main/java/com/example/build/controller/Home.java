@@ -21,9 +21,9 @@ public class Home {
     public String hello2(){
         return "hello2 erray";
     }
-    @GetMapping("/hello3")
-    public String hello3(){
-        return "hello3 erray";
-    }
+//    @GetMapping("/hello3")
+//    public String hello3(){
+//        return "hello3 erray";
+//    }
 
 }
